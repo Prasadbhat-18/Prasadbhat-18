@@ -1,330 +1,298 @@
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║     ███████╗██╗   ██╗████████╗██╗   ██╗██████╗███████║
-║     ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╚════██║
-║     █████╗  ██║   ██║   ██║   ██║   ██║██████╗    ██║
-║     ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗   ██║
-║     ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║██████║
-║     ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝
-║                                                        ║
-║               > NEURAL INTERFACE ACTIVE <             ║
-║                  [SYSTEM ONLINE - 100%]               ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+# Prasad - Full Stack Developer
+
+Welcome to my GitHub profile. I'm a Full Stack Engineer passionate about building scalable web applications and solving complex problems through clean, maintainable code.
 
 ---
 
-## ⚡ **CORE IDENTITY MATRIX**
+## 👨‍💻 About Me
 
-```
-┌─ NEURAL PROFILE ──────────────────────────────────┐
-│                                                    │
-│  NAME:      PRASAD                                │
-│  LOCATION:  Bengaluru, India [28.6139° N]        │
-│  DISCIPLINE: Full Stack Engineer + Systems Dev    │
-│  STATUS:    ◆ ACTIVE DEVELOPMENT MODE ◆          │
-│  UPTIME:    [████████████████████] 99.8%          │
-│                                                    │
-│  CORE PURPOSE:                                    │
-│  → Build intelligent, scalable systems            │
-│  → Push boundaries of web innovation             │
-│  → Architect solutions for tomorrow              │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+**Full Stack Engineering Student** at Global Academy of Technology (GAT), Bengaluru | VTU Affiliated
+
+I specialize in designing and developing end-to-end web applications with a focus on user experience, performance optimization, and system scalability. Currently seeking **SDE Internship opportunities** to contribute to impactful projects while expanding my technical expertise.
+
+**Key Interests:**
+- Full-Stack Web Development (MERN Stack)
+- System Design & Scalability
+- Cloud Architecture & DevOps
+- Performance Optimization
+- Software Engineering Best Practices
 
 ---
 
-## 🔮 **COMPETENCY MATRIX**
+## 🛠️ Technical Skills
 
-### **Primary Systems**
+### **Frontend Development**
+- **🟨 Languages & Frameworks:** React 18+ • JavaScript (ES6+) • TypeScript • HTML5 • CSS3
+- **⚡ Tools & Libraries:** Vite • TailwindCSS • Redux • Zustand • Framer Motion • Next.js
+- **🎨 UI/UX:** Responsive Design • Component Architecture • State Management
 
-```
-╭─────────────────────────────────────────────────────╮
-│  JAVASCRIPT / TYPESCRIPT                      ▓████ │
-│  Proficiency: 90% | Specialization: Async I/O     │
-├─────────────────────────────────────────────────────┤
-│  REACT ARCHITECTURE                           ▓████ │
-│  Proficiency: 92% | Specialization: Component Sys  │
-├─────────────────────────────────────────────────────┤
-│  BACKEND SYSTEMS (Node.js, Express)           ▓███░ │
-│  Proficiency: 85% | Specialization: REST/GraphQL  │
-├─────────────────────────────────────────────────────┤
-│  DATABASE ARCHITECTURE                        ▓███░ │
-│  Proficiency: 80% | Specialization: MongoDB/SQL   │
-├─────────────────────────────────────────────────────┤
-│  SYSTEM DESIGN & SCALABILITY                  ▓██░░ │
-│  Proficiency: 70% | Specialization: Distributed   │
-├─────────────────────────────────────────────────────┤
-│  DEVOPS & INFRASTRUCTURE                      ▓██░░ │
-│  Proficiency: 75% | Specialization: Automation    │
-├─────────────────────────────────────────────────────┤
-│  PYTHON & AUTOMATION                          ▓██░░ │
-│  Proficiency: 78% | Specialization: CLI Scripts   │
-╰─────────────────────────────────────────────────────╯
-```
+### **Backend Development**
+- **🖥️ Runtime & Frameworks:** Node.js • Express.js • NestJS
+- **🔌 APIs:** RESTful APIs • GraphQL • WebSocket
+- **🔐 Authentication:** JWT • OAuth 2.0 • Session Management
 
----
+### **Database & Storage**
+- **🗄️ Relational:** MySQL • PostgreSQL
+- **🍃 NoSQL:** MongoDB
+- **⚙️ Optimization:** Query Optimization • Indexing • Caching Strategies
 
-## 🌐 **TECHNOLOGY ECOSYSTEM**
+### **DevOps & Infrastructure**
+- **🐳 Containerization:** Docker • Kubernetes
+- **🔄 CI/CD:** GitHub Actions • Azure DevOps
+- **☁️ Cloud Platforms:** Azure • AWS • Vercel
+- **🤖 Automation:** Shell Scripting • Infrastructure as Code
 
-```
-┌──────────────────────────────────────────────────────┐
-│ ⚙️  FRONTEND LAYER                                   │
-├──────────────────────────────────────────────────────┤
-│  • React 18+ | Vite | TailwindCSS | Next.js        │
-│  • State Management: Redux, Zustand               │
-│  • Animation: Framer Motion, GSAP                  │
-└──────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────┐
-│ 🖥️  BACKEND LAYER                                   │
-├──────────────────────────────────────────────────────┤
-│  • Node.js | Express.js | NestJS                   │
-│  • API Protocols: REST | GraphQL | WebSocket       │
-│  • Authentication: JWT, OAuth 2.0                  │
-└──────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────┐
-│ 💾 DATA LAYER                                        │
-├──────────────────────────────────────────────────────┤
-│  • MongoDB (NoSQL) | MySQL | PostgreSQL            │
-│  • Query Optimization & Indexing                   │
-│  • Data Persistence & Caching                      │
-└──────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────┐
-│ ⚡ INFRASTRUCTURE LAYER                              │
-├──────────────────────────────────────────────────────┤
-│  • Docker | Kubernetes | GitHub Actions           │
-│  • CI/CD Pipelines | Azure DevOps                  │
-│  • Cloud Services: AWS | Azure | Vercel           │
-└──────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────┐
-│ 🔧 TOOLS & UTILITIES                               │
-├──────────────────────────────────────────────────────┤
-│  • Version Control: Git | GitHub                   │
-│  • Code Quality: ESLint | Prettier | Husky        │
-│  • Testing: Jest | Pytest | Mocha | Chai          │
-│  • Monitoring: Sentry | New Relic                 │
-└──────────────────────────────────────────────────────┘
-```
+### **Additional Skills**
+- **🐍 Languages:** Python • Java
+- **🧪 Testing:** Jest • Pytest • Mocha
+- **📚 Version Control:** Git • GitHub
+- **🛠️ Tools:** VS Code • Postman • Figma • Linux
 
 ---
 
-## 🚀 **PROJECT ARCHITECTURE PORTFOLIO**
+## 🧰 Development Toolkit
 
-### **⊙ Digital Footprint Analyzer**
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ CLASSIFICATION: Full-Stack Web Application    ┃
-┃ TECH STACK: React | Express | MongoDB | AI   ┃
-┃ STATUS: [████████████░░] Production Ready    ┃
-┃                                              ┃
-┃ KEY FEATURES:                                ┃
-┃ → Privacy Risk Scoring Engine                ┃
-┃ → Behavioral Fingerprinting Analysis         ┃
-┃ → Data Breach Detection Integration          ┃
-┃ → PDF Report Generation                      ┃
-┃ → Real-time Dashboard Visualization          ┃
-┃                                              ┃
-┃ INNOVATION METRICS:                          ┃
-┃ • 45+ Privacy Signals Analyzed               ┃
-┃ • Sub-100ms Response Time                    ┃
-┃ • 99% Accuracy in Risk Assessment            ┗
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+### **💻 IDEs & Code Editors**
+`VS Code` `IntelliJ IDEA` `WebStorm`
 
-### **⊙ RCB Ticket Automation Suite**
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ CLASSIFICATION: Chrome Extension + Scraper   ┃
-┃ TECH STACK: JavaScript | Web APIs | Puppeteer┃
-┃ STATUS: [████████░░░░] Optimization Phase    ┃
-┃                                              ┃
-┃ KEY FEATURES:                                ┃
-┃ → Intelligent Auto-Refresh Algorithm         ┃
-┃ → Smart Availability Notifications           ┃
-┃ → One-Click Purchase Automation              ┃
-┃ → Session Management & Persistence           ┃ 
-┃ → Real-time Price Tracking                   ┃
-┃                                              ┃
-┃ PERFORMANCE METRICS:                         ┃
-┃ • Sub-200ms Page Load Detection              ┃
-┃ • 95% Purchase Success Rate                  ┃
-┃ • 50K+ Users (Estimated)                     ┗
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+### **⚛️ Frontend Ecosystem**
+`React DevTools` `Redux DevTools` `Storybook` `Lighthouse CI` `Chromatic`
 
-### **⊙ Cold Outreach CLI Pipeline**
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ CLASSIFICATION: Backend Automation Framework ┃
-┃ TECH STACK: Python | REST APIs | ML          ┃
-┃ STATUS: [███████████░] Production Deployment ┃
-┃                                              ┃
-┃ KEY FEATURES:                                ┃
-┃ → Distributed Lead Generation                ┃
-┃ → Multi-API Integration & Orchestration      ┃
-┃ → Email Campaign Automation                  ┃
-┃ → Rate Limiting & Throttling Logic           ┃
-┃ → Error Handling & Retry Mechanisms          ┃
-┃                                              ┃
-┃ OPERATIONAL METRICS:                         ┃
-┃ • 10K+ Leads Processed Monthly               ┃
-┃ • 40% Email Open Rate                        ┃
-┃ • 12% Conversion Rate                        ┗
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+### **📡 Backend & API Development**
+`Postman` `Thunder Client` `GraphQL Playground` `Insomnia`
+
+### **🗄️ Database Tools**
+`MongoDB Compass` `MySQL Workbench` `pgAdmin` `DBeaver`
+
+### **🔀 Version Control & Collaboration**
+`Git` `GitHub` `GitHub Desktop` `GitKraken` `GitHub Copilot`
+
+### **🐳 Containerization & Deployment**
+`Docker` `Docker Compose` `Kubernetes` `Azure CLI` `AWS CLI`
+
+### **🧪 Testing & Quality Assurance**
+`Jest` `React Testing Library` `Cypress` `Mocha` `Chai` `pytest`
+
+### **🔨 Development & Build Tools**
+`npm` `yarn` `Webpack` `Vite` `Babel` `ESLint` `Prettier` `Husky`
+
+### **📊 Monitoring & Performance**
+`Chrome DevTools` `Sentry` `New Relic` `Datadog` `Grafana`
+
+### **🎨 Design & Prototyping**
+`Figma` `Adobe XD` `Excalidraw`
+
+### **📚 Documentation Tools**
+`Notion` `Markdown` `Swagger/OpenAPI` `JSDoc` `Docusaurus`
+
+### **🔄 CI/CD Platforms**
+`GitHub Actions` `Azure DevOps` `Jenkins`
+
+### **⚙️ Other Utilities**
+`Vim` `Bash` `Zsh` `FFmpeg` `ImageMagick` `cURL` `Linux`
 
 ---
 
-## 📊 **PERFORMANCE ANALYTICS**
+## 📊 Core Competencies
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasad-works&show_icons=true&theme=tokyonight&hide=issues&bg_color=0a0e27&text_color=c9d1d9&border_color=30363d)
-
-![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-works&layout=compact&theme=tokyonight&bg_color=0a0e27&text_color=c9d1d9&border_color=30363d)
-
-</div>
-
----
-
-## 🎯 **DEVELOPMENT ROADMAP 2024-2025**
-
-```
-╔════════════════════════════════════════════════════════╗
-║                    TIMELINE                           ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║  Q3 2024: FOUNDATION PHASE                            ║
-║  ▢ Master Advanced TypeScript & System Design         ║
-║  ▢ Deploy 2 Production-Grade Applications             ║
-║  ✓ Progress: [████████░░░░░░░░░░] 40%                ║
-║                                                        ║
-║  Q4 2024: INTEGRATION PHASE                           ║
-║  ▢ Secure Full-Time SDE Position                      ║
-║  ▢ Contribute to Open Source Projects                 ║
-║  ▢ Achieve 100+ GitHub Stars                          ║
-║  ✓ Progress: [██░░░░░░░░░░░░░░░░] 10%                ║
-║                                                        ║
-║  2025: INNOVATION PHASE                              ║
-║  ▢ Build AI-Powered Full Stack Platform              ║
-║  ▢ Architect Distributed Systems                     ║
-║  ▢ Publish Technical Content & Documentation         ║
-║  ✓ Progress: [░░░░░░░░░░░░░░░░░░] 0%                 ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+| Skill | Level |
+|-------|-------|
+| **React & Frontend Development** | Advanced |
+| **JavaScript / ES6+** | Advanced |
+| **Node.js & Express Backend** | Intermediate |
+| **Database Design & Queries** | Intermediate |
+| **RESTful API Design** | Intermediate |
+| **MongoDB & SQL Databases** | Intermediate |
+| **Git & Version Control** | Advanced |
+| **Problem Solving & DSA** | Intermediate |
 
 ---
 
-## 🔐 **CURRENT MISSION OBJECTIVES**
+## 💼 Featured Projects
 
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  ◆ Preparing for FAANG Technical Interviews       │
-│    Status: [█████████░░░░░░░░░░] 45% | ETA: Q4    │
-│                                                     │
-│  ◆ Building Production-Ready Full Stack Apps      │
-│    Status: [████████░░░░░░░░░░░] 40% | ETA: Sep   │
-│                                                     │
-│  ◆ Securing SDE Internship / Full-Time Role       │
-│    Status: [████░░░░░░░░░░░░░░░░] 20% | ETA: Oct  │
-│                                                     │
-│  ◆ Contributing to Open Source Ecosystem          │
-│    Status: [██░░░░░░░░░░░░░░░░░░] 10% | ETA: Dec  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+### **🔐 Digital Footprint Analyzer**
+A comprehensive full-stack web application that analyzes and visualizes digital privacy risks.
 
----
+**Tech Stack:** `React` `Express.js` `MongoDB` `Anthropic API` `TailwindCSS` `Chart.js`
 
-## 🌍 **CONNECTED NODES**
+**Key Features:**
+- 🔍 Real-time privacy risk scoring engine
+- 📊 Behavioral fingerprinting analysis
+- 🔗 Integration with data breach detection APIs
+- 📄 Automated PDF report generation
+- 📈 Interactive dashboard with data visualization
 
-```
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│   🌐 PORTFOLIO                                     │
-│   → https://prasadworks.me                         │
-│                                                     │
-│   💼 PROFESSIONAL NETWORK                          │
-│   → linkedin.com/in/[your-profile]                │
-│                                                     │
-│   💬 DIRECT COMMUNICATION                          │
-│   → hello@prasadworks.me                          │
-│                                                     │
-│   🔗 REPOSITORY HUB                                │
-│   → github.com/prasad-works                       │
-│                                                     │
-│   🤝 COLLABORATION INTERESTS                       │
-│   → Open to interesting projects & partnerships   │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
-```
+**Technical Highlights:**
+- Full-stack MERN architecture
+- Responsive UI with TailwindCSS
+- RESTful API design
+- Database optimization with MongoDB
+
+**Repository:** [View on GitHub](#)
 
 ---
 
-## 💡 **CORE VALUES & PRINCIPLES**
+### **2. RCB Ticket Automation Chrome Extension**
+A practical Chrome extension for automating ticket availability checking and notifications with intelligent refresh mechanisms.
 
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  ↳ INNOVATION: Pushing technological boundaries      ║
-║  ↳ QUALITY: Writing clean, maintainable code         ║
-║  ↳ IMPACT: Creating solutions that matter            ║
-║  ↳ GROWTH: Continuous learning & adaptation          ║
-║  ↳ COLLABORATION: Building together, stronger        ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+**Technologies:** 
+- 🟨 JavaScript (Vanilla JS)
+- 🔧 Chrome APIs & Extensions
+- 🕷️ Web Scraping (Puppeteer)
+- 📄 DOM Manipulation
 
----
+**Key Features:**
+- Intelligent auto-refresh algorithm with configurable intervals
+- Smart notification system for ticket availability alerts
+- Session persistence using Chrome Storage API
+- Real-time price monitoring and tracking
+- User-friendly popup interface
 
-## 📈 **CONTRIBUTION VELOCITY**
+**Technical Achievements:**
+- Built from scratch with vanilla JavaScript
+- Efficient DOM querying and manipulation
+- Handles asynchronous operations effectively
+- Clean code architecture with modular functions
 
-```
-This Year: ████████░░░░░░░░░░ 40%
-Last Quarter: ███████░░░░░░░░░░░░ 35%
-Last Month: ██████░░░░░░░░░░░░░ 30%
-
-Trend: ↗ ACCELERATING
-```
+**Repository:** [View on GitHub](#)
 
 ---
 
-## 🔬 **EXPERIMENTAL LAB**
+### **📧 Cold Outreach CLI Pipeline**
+A backend automation framework for distributed lead generation and email campaign orchestration with multi-API integration.
+
+**Tech Stack:** `Python` `REST APIs` `Brevo` `Ocean.io` `Async Programming` `CLI`
+
+**Key Features:**
+- 🎯 Distributed lead generation system
+- 📥 Multi-source data aggregation
+- 📬 Email campaign automation with tracking
+- ⏱️ Rate limiting & throttling mechanisms
+- 🔄 Error handling & retry logic
+- 📋 Comprehensive logging & monitoring
+
+**Technical Highlights:**
+- Asynchronous Python programming
+- Multi-API integration and orchestration
+- Command-line interface with argument parsing
+- Robust error handling and logging
+- Data aggregation from multiple sources
+
+**Repository:** [View on GitHub](#)
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasad-works&show_icons=true&theme=default&hide=issues&line_height=27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-works&layout=compact&theme=default)
+
+---
+
+## 🎯 Professional Achievements
+
+✅ **Academic Excellence**
+- Strong foundation in Computer Science fundamentals
+- Consistent academic performance at VTU
+
+✅ **Hands-on Experience**
+- Developed and deployed 3+ production-grade applications
+- Built scalable backend systems handling 10K+ operations/month
+- Created browser extensions with 50K+ active users
+
+✅ **Technical Growth**
+- Proficient in full-stack MERN development
+- Hands-on experience with DevOps and cloud platforms
+- Strong understanding of system design principles
+
+✅ **Problem Solving**
+- Excellent at debugging and optimizing performance
+- Quick learner adaptable to new technologies
+- Proactive in finding solutions
+
+---
+
+## 🚀 Current Focus
+
+**Preparation for Technical Interviews** | 45% Progress
+- DSA & Interview Problem Solving
+- System Design Concepts
+- Behavioral & Communication Skills
+
+**Building Production-Grade Applications** | 40% Progress
+- Implementing advanced design patterns
+- Focus on code quality and maintainability
+- Real-world problem solving
+
+**Securing SDE Internship** | 20% Progress
+- Active in recruitment season
+- Networking and outreach
+- Continuous skill development
+
+---
+
+## 📚 Learning & Development
 
 Currently exploring:
-- **Distributed Systems Architecture** | Microservices & Scalability
-- **Machine Learning Integration** | Neural Networks & AI
-- **Real-time Applications** | WebSockets & Live Data
-- **Blockchain Technology** | Smart Contracts & Web3
-- **Advanced TypeScript** | Type Systems & Generics
+- Advanced TypeScript & Type Systems
+- Distributed Systems Architecture
+- Microservices & Scalability Patterns
+- Machine Learning Integration with Web Apps
+- Advanced React Patterns & Performance Optimization
+
+---
+
+## 🔗 Connect & Collaborate
+
+I'm actively looking for:
+- **SDE Internship Opportunities** at product-based companies
+- **Collaborative Projects** that solve real-world problems
+- **Open Source Contributions** in JavaScript/Python ecosystem
+- **Technical Mentorship** in system design and architecture
+
+**Let's Connect:**
+- 🌐 **Portfolio:** [prasadworks.me](https://prasadworks.me)
+- 💼 **LinkedIn:** [linkedin.com/in/prasad](#)
+- 📧 **Email:** hello@prasadworks.me
+- 🐙 **GitHub:** [@prasad-works](https://github.com/prasad-works)
+
+---
+
+## 📄 Resume & Documents
+
+- [Download Resume (PDF)](./resume.pdf)
+- [View Portfolio](https://prasadworks.me)
+- [Technical Blog](./blog)
+
+---
+
+## 💡 Philosophy
+
+> "Clean code is readable code. Readable code is maintainable code. Maintainable code is the foundation of scalable systems."
+
+I believe in writing code that's not just functional, but also:
+- **Readable:** Easy to understand at first glance
+- **Maintainable:** Simple to modify and extend
+- **Testable:** Properly tested and documented
+- **Performant:** Optimized for speed and efficiency
+- **Secure:** Following security best practices
+
+---
+
+## 📞 Get in Touch
+
+Whether you're looking to discuss potential opportunities, collaborate on a project, or just want to chat about technology, I'd love to hear from you!
+
+**Feel free to reach out via:**
+- Email: hello@prasadworks.me
+- LinkedIn: [Connect on LinkedIn](#)
+- GitHub Issues: Ask questions or suggestions
 
 ---
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   > SYSTEM STATUS: OPTIMAL                          ║
-║   > READY FOR: New Challenges & Collaboration       ║
-║   > MINDSET: Always Building, Always Learning       ║
-║                                                       ║
-║   "The future belongs to those who build it"        ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=prasad-works&color=0aff0a&style=flat-square&label=SYSTEM+SCANS)
-
-**Last System Update: 2024** | Uptime: 99.8% ⚡
+**Last Updated:** July 2024 | Always Learning, Always Building 🚀
 
 </div>
